@@ -25,7 +25,7 @@ void Menu() {
 	else if (rep == information) {
 		cout <<"Here's your option make a choice, enter the number associated" << endl;
 		switch (c) {
-		case 1:
+		case 1: 
 		}
 	}
 }
